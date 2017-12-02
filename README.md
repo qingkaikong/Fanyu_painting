@@ -10,3 +10,7 @@ Mommy in my eye <br>  2017-12-01           | Daddy in my eye <br> 2017-12-01
 ![](https://raw.githubusercontent.com/qingkaikong/Fanyu_painting/master/images/image_2.jpg)  |  ![](https://raw.githubusercontent.com/qingkaikong/Fanyu_painting/master/images/image_3.jpg)
 |  | 
 
+Brother in my eye <br>  2017-12-01           | Myself <br> 2017-12-01
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/qingkaikong/Fanyu_painting/master/images/image_4.jpg)  |  ![](https://raw.githubusercontent.com/qingkaikong/Fanyu_painting/master/images/image_5.jpg)
+|  | 
